@@ -1,7 +1,6 @@
 #read HTML (https://www.espn.com/mlb/war/leaders)
 #HTML elements CSS
 #html_table
-
 library(rvest)
 library(dplyr)
 library(ggplot2)
